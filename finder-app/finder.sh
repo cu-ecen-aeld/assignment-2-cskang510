@@ -36,4 +36,3 @@ done
 
 echo "The number of files are $FILES_FOUND and number of matching lines are $MATCH_FOUND"
 exit 0
-
